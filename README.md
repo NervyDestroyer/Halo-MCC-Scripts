@@ -1,8 +1,6 @@
 # Halo-MCC-Scripts
 Level scripts extracted for each game in Halo: The Master Chief Collection using the MCC mod tools
 
-Except Halo 4, idk where they are, I'll figure it out later...
-
 Should have everything you'd want to look at, globals, ai, and levels. If there's something missing, feel free to message me on the HaloRuns discord.
 
 ## Disclaimer
