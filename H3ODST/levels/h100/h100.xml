@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+type can be one of the following: ui, solo, multi.  This influences which type of scenario the game loads the map as.
+tagsLocation can be one of the following: default, dlc, test, temp.  This is where the .scenario file lives in tags builds.  Ignored for Cache builds.
+-->
+<scenario name="5000" id="5000" type="solo">
+	<visibleInUI>false</visibleInUI>
+	<pathToStringsFile>levels\atlas\halo3_atlas_names.txt</pathToStringsFile>
+	<imageFileBase>c_h100</imageFileBase>
+	<scenarioPath>h100</scenarioPath>
+	<presenceContextID>13</presenceContextID>
+	<sortOrder>0</sortOrder>
+	<insertionPoints>
+		<insertionPoint zoneSet="0" />
+		<insertionPoint zoneSet="1" returnFromMapID="6100"/>
+		<insertionPoint zoneSet="2" returnFromMapID="6110"/>
+		<insertionPoint zoneSet="3" returnFromMapID="6120"/>
+		<insertionPoint zoneSet="4" returnFromMapID="6130"/>
+		<insertionPoint zoneSet="5" returnFromMapID="6140"/>
+		<insertionPoint zoneSet="6" returnFromMapID="6150"/>
+		<insertionPoint zoneSet="23" survival="true" survivalAlwaysUnlocked="true" survivalPresenceContextID="4" />
+		<insertionPoint zoneSet="24" survival="true" survivalAlwaysUnlocked="true" survivalPresenceContextID="5" />
+	</insertionPoints>
+	<allowsSavedFilms>true</allowsSavedFilms>
+	<allowsSurvival>true</allowsSurvival>
+	<playableCharacter>Rookie</playableCharacter>
+</scenario>
