@@ -1,5 +1,5 @@
 # Halo-MCC-Scripts
-Level scripts extracted for each game in Halo: The Master Chief Collection using the MCC mod tools
+Original source level scripts for each game in Halo: The Master Chief Collection. These scripts are taken directly from the mod tools. They are the original source code and as such, are accurate.
 
 Should have everything you'd want to look at, globals, ai, and levels. If there's something missing, feel free to message me on the HaloRuns discord.
 
